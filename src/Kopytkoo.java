@@ -15,6 +15,8 @@ public class Kopytkoo {
      */
     public static void main(String[] args) {
         System.out.println ("To jest mój pierwszy program");
+        
+        System.out.println("to sie zmienilo");
         // TODO code application logic here
     }
     
