@@ -14,7 +14,7 @@ public class Kopytkoo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println ("To jest mój pierwszy program");
+        /*System.out.println ("To jest mój pierwszy program");
         
         String imie =  "Gosia";
         String nazwisko = "Brocka";
@@ -43,11 +43,11 @@ public class Kopytkoo {
         
         */
         
-        char znak = 'A';
+       /* char znak = 'A';
         float liczba2 = 4.57f; 
         double liczba3 = 56.564564544;
         
-                
+            
         int d= 5, e= 2;
         double f= 12, g= 15;
         int wynik1 = d / (int)g;
@@ -58,7 +58,15 @@ public class Kopytkoo {
         System.out.println(imie + " " + nazwisko);
         System.out.println(liczba2);
         System.out.println(liczba3);
-        System.out.println((double) d / e);   
+        System.out.println((double) d / e);  */
+        
+        int a =  5;
+        
+        a++;
+        
+        System.out.println (a);
+       
+                
     }
     
 }
