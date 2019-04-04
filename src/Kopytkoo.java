@@ -60,12 +60,27 @@ public class Kopytkoo {
         System.out.println(liczba3);
         System.out.println((double) d / e);  */
         
-        int a =  5;
+        /* int a =  5;
         
         a++;
         
-        System.out.println (a);
-       
+        System.out.println (a);*/
+      
+   /* boolean isTrue = 4 ==4;
+    if (4 == 4)
+   
+    
+        System.out.println(isTrue);
+        System.out.println(5 <= 8); */
+   
+   /* int a = 5,
+       b = 5,
+       c = 7;
+   
+   if (a != b || c > 12 )
+            System.out.println("tak"); */
+   
+        System.out.println(~10);
                 
     }
     
